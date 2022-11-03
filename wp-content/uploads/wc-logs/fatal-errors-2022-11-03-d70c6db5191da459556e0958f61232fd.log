@@ -1,0 +1,20 @@
+2022-11-03T11:53:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\huhu\wp-includes\Requests\Transport\cURL.php on line 462
+
+2022-11-03T12:05:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\huhu\wp-includes\Requests\Transport\cURL.php on line 462
+
+2022-11-03T12:28:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\huhu\wp-content\plugins\google-listings-and-ads\src\Infrastructure\Conditional.php on line 24
+
+2022-11-03T12:28:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\huhu\wp-content\plugins\wpforms-lite\src\Lite\Admin\DashboardWidget.php on line 12
+
+2022-11-03T12:29:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\huhu\wp-content\plugins\google-listings-and-ads\src\Event\ClearProductStatsCache.php on line 11
+
+2022-11-03T12:29:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\huhu\wp-content\plugins\google-listings-and-ads\src\Shipping\ZoneMethodsParser.php on line 11
+
+2022-11-03T12:29:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\huhu\wp-content\plugins\google-listings-and-ads\vendor\google\apiclient-services\src\ShoppingContent\Resource\Csses.php on line 94
+
+2022-11-03T12:29:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\huhu\wp-content\plugins\google-listings-and-ads\vendor\google\apiclient-services\src\ShoppingContent\Resource\Promotions.php on line 66
+
+2022-11-03T12:29:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\huhu\wp-content\plugins\google-listings-and-ads\vendor\symfony\validator\Mapping\Loader\LoaderInterface.php on line 30
+
+2022-11-03T12:29:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\huhu\wp-includes\functions.php on line 651
+
